@@ -138,6 +138,11 @@ C4 does not exist; the numbering skips it.
 6. **Optional ESD part.** A 100 nF capacitor from T/ID to GND at the pad would add ESD and RF
    immunity. It is not placed; there is only a note on the schematic.
 
+## License
+
+MIT, see [LICENSE](LICENSE). This is an untested hardware design: use it at your own risk. A
+battery pack and a high-current switch can start a fire if built or used wrongly.
+
 ## Sources
 
 - T/ID behaviour and an earlier low-side protection board:

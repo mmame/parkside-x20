@@ -1,0 +1,4 @@
+# EasyEDA Pro backups and recovery copies
+*.eprj_backup
+*_backup/
+*.epro2
